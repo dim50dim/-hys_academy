@@ -1,15 +1,21 @@
 .line {
-    width: 60px;
-    height: 5px;
-    border-bottom: solid 2px #1B63F0;
+    width: 3.75em;
+    height:  0.3125em;
+    border-bottom: solid 0.125em #1B63F0;
 }
 .card{
-    width: 415px;
-    height: 264px;
+    width:25.9375em;
+    height:  16.5em;
     background-color: #D6FAE7;
     border-radius: 20px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
+}
+.footer-main-back{
+    background-image: url('/ls_0/src/images/footer-mail-back.svg');
+    background-size: cover;
+    width: inherit;
+    height: inherit;
 }
